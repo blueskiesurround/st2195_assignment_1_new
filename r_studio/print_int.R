@@ -29,3 +29,6 @@ for (i in c(1:10)){
 # Method 6
 print(1:10)
 cat(1:10)
+
+#method 7 
+#methodnew?? 
